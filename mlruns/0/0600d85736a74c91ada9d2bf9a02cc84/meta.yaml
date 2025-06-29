@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/blank-app-3/mlruns/0/0600d85736a74c91ada9d2bf9a02cc84/artifacts
+end_time: 1751032111973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0600d85736a74c91ada9d2bf9a02cc84
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751032111944
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/blank-app-3/mlruns/0/c12c6ac3173d474e8564100fd3dd7000/artifacts
+end_time: 1751029789315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c12c6ac3173d474e8564100fd3dd7000
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751029784884
+status: 3
+tags: []
+user_id: vscode

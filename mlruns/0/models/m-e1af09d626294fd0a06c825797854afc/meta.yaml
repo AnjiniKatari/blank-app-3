@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/blank-app-3/mlruns/0/models/m-e1af09d626294fd0a06c825797854afc/artifacts
+creation_timestamp: 1751029782994
+experiment_id: '0'
+last_updated_timestamp: 1751029784877
+model_id: m-e1af09d626294fd0a06c825797854afc
+model_type: null
+name: decision_tree_model
+source_run_id: 2d0a9b86eedd4520baa4e961024ea491
+status: 2
+status_message: null

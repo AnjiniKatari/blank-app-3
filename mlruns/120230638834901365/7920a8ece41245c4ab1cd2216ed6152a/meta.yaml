@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/120230638834901365/7920a8ece41245c4ab1cd2216ed6152a/artifacts
+end_time: 1751034457624
+entry_point_name: ''
+experiment_id: '120230638834901365'
+lifecycle_stage: active
+run_id: 7920a8ece41245c4ab1cd2216ed6152a
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751034455681
+status: 3
+tags: []
+user_id: vscode

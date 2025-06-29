@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/blank-app-3/mlruns/0/models/m-6b17fdb57efe47dbba8ca16457bc7d0f/artifacts
+creation_timestamp: 1751029787377
+experiment_id: '0'
+last_updated_timestamp: 1751029789311
+model_id: m-6b17fdb57efe47dbba8ca16457bc7d0f
+model_type: null
+name: logreg_model
+source_run_id: c12c6ac3173d474e8564100fd3dd7000
+status: 2
+status_message: null
